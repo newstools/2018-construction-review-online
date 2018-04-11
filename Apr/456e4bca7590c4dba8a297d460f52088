@@ -1,0 +1,6 @@
+ComAp has recently released a new cloud forecasting system to complement its InteliSys
+Hybrid micro-grid controller. The cloud tracking and real-time photovoltaic production forecasting system is recommended for use in Hybrid PV-Diesel applications with high penetration of renewable energy, where high dynamic spinning reserve on gen-sets might be required to maintain reliability of the power supply by ensuring availability of sufficient capacity. The cloud forecasting system uses an algorithm to predict overall solar irradiation that is
+above the PV cells. The algorithm uses overhead cloud cover, background radiation,
+weather patterns, radiometric measurements from ground stations, the size and location of
+the sun in the sky, wind patterns, cloud sizes, and cloud density to predict the solar output
+and ensure the maximum utilization of the PV system before the gen-set starts. “The cloud forecasting system is significantly more accurate and considerably faster in short term predictions than satellite or weather forecast data, and is therefore the most suitable prediction system for hybrid Diesel/PV power generation,“ says Product Manager Petra Píclová. The system allows for the maximum input from the PV system, whilst also reducing the use of the diesel gen-set – resulting in a reduction of wear on the engine, and saving in diesel consumption.
